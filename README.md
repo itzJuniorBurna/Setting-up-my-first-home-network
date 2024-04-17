@@ -17,3 +17,6 @@ I connected the router to the cable modem then the office pc and the bedroom pc
 <br>
 Afterwards, I bagan configuring the wireless router and was able to get to the network setup interface
 <img src="https://i.imgur.com/k2L2zvE.png" height="80%" width="80%" alt="Connecting the Devices"/>
+<br> 
+During my configuration process, I also changed the router password from the default password to a new one
+<img src="https://i.imgur.com/dByeDFh.png" height="80%" width="80%" alt="Connecting the Devices"/>
