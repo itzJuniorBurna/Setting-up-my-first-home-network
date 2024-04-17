@@ -14,3 +14,6 @@ These are the network components that were yet to be connected and configured
 <br>
 I connected the router to the cable modem then the office pc and the bedroom pc
 <img src="https://i.imgur.com/PeQCDV5.png" height="80%" width="80%" alt="Connecting the Devices"/>
+<br>
+Afterwards, I bagan configuring the wireless router and was able to get to the network setup interface
+<img src="https://i.imgur.com/k2L2zvE.png" height="80%" width="80%" alt="Connecting the Devices"/>
