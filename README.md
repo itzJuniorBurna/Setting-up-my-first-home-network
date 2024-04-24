@@ -19,10 +19,10 @@ Afterwards, I bagan configuring the wireless router and was able to get to the n
 <img src="https://i.imgur.com/k2L2zvE.png" height="80%" width="80%" alt="Connecting the Devices"/>
 <br> 
 During my configuration process, I also changed the router password from the default password to a new one
-<img src="https://i.imgur.com/dByeDFh.png" height="80%" width="80%" alt="Connecting the Devices"/>
+<img src="https://i.imgur.com/41StkLH.png" height="80%" width="80%" alt="Connecting the Devices"/>
 <br>
 Ater a successful configuration, I tested my connection to the router and obtained access to the internet
-<img src="https://i.imgur.com/lYrWbSY.png" height="80%" width="80%" alt="Connecting the Devices"/>
+<img src="https://i.imgur.com/NiMt54H.png" height="80%" width="80%" alt="Connecting the Devices"/>
 <img src="https://i.imgur.com/Xl9W6yt.png" height="80%" width="80%" alt="Connecting the Devices"/>
 <br>
 Here is the network infrastucture after a series of successful configuration and connection of end devices to the internet
